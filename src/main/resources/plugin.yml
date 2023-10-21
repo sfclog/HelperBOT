@@ -1,0 +1,16 @@
+name: HelperBOT
+version: '${project.version}'
+main: me.sfclog.helperbot.Main
+authors: [ SFC_Log ]
+softdepend:
+  - SimpSyncChat
+commands:
+  helperbot:
+    aliases:
+      - bot
+      - chatgpt
+      - chatbot
+      - help
+      - hotro
+      - helper
+
